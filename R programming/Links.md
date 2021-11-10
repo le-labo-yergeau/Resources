@@ -12,6 +12,8 @@ https://happygitwithr.com/
 
 
 
+## Twitter accounts (as of 2021) - educational
+https://twitter.com/rfunctionaday 
 
 
 
