@@ -1,1 +1,1 @@
-# Resources for navigating the Servers of Compute Canada
+# Resources for navigating the Compute Canada servers
